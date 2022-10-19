@@ -1,0 +1,14 @@
+#: locale=pt
+
+## Media
+
+### Title
+album_E3BD7A3A_EDAF_7438_41C5_7F12ACB1C101_0.label = Imagem_fundo_tour_virtual_deficiente_visual5
+album_E3BD7A3A_EDAF_7438_41C5_7F12ACB1C101.label = Photo Album Imagem_fundo_tour_virtual_deficiente_visual5
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour virtual para deficientes visuais
