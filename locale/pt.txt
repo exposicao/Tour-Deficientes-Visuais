@@ -6,8 +6,8 @@
 audiores_E2EAE1D6_EE43_D4AA_41BC_A180BF7A99BC.mp3Url = media/audio_E25E7EEE_EE43_AC7A_41DA_E2241BA065FB_pt.mp3
 
 ### Title
-photo_E2707343_EE42_F5AB_41B1_8370788D9221.label = Imagem_fundo_tour_virtual_deficiente_visual2
-photo_E2707343_EE42_F5AB_41B1_8370788D9221.label = Imagem_fundo_tour_virtual_deficiente_visual2
+photo_E30AF85B_EE41_D45A_41CB_E5FC97104F69.label = Imagem_fundo_tour_virtual_deficiente_visual2
+photo_E30AF85B_EE41_D45A_41CB_E5FC97104F69.label = Imagem_fundo_tour_virtual_deficiente_visual2
 album_E3BD7A3A_EDAF_7438_41C5_7F12ACB1C101.label = Photo Album Imagem_fundo_tour_virtual_deficiente_visual5
 
 ## Tour
