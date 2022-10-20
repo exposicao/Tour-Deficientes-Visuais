@@ -1,14 +1,112 @@
 #: locale=pt
 
+## Action
+
+### Text to Speech
+TextToSpeechBehaviour_BC6CE1CC_F225_6DDB_41D3_E759318B75F7.text = Anterior
+TextToSpeechBehaviour_DAC88F57_F3E6_D85B_41D1_2B141551F8B7.text = Anterior
+TextToSpeechBehaviour_42E7C1D2_F3EA_ADCE_41C3_B169B6206BEE.text = Brasiliense, Felipe Salsano nasceu em 1987. Como sua mãe ficou cega dois anos antes de seu nascimento, Salsano acostumou-se a ser seus olhos, descrevendo tudo o que via para ela. Psicóloga, a genitora do artista foi suporte às suas inquietações e também maior incentivadora do seu trabalho. A permanente análise visual do mundo potencializou a percepção do artista, propiciando o desenvolvimento de obras com enorme riqueza de detalhes. Afirma Salsano: “Cresci com mãe cega. Só eu e ela morando juntos. O que eu descrevia para ela era o que ela visualizava. O fato de eu desenhar e pintar se deve a isso. É meu ponto de vista, como se eu estivesse descrevendo o mundo para minha mãe”. \
+Desde criança, Felipe Salsano demonstrou grande interesse pelo desenho e pela pintura. Quando ele tinha dezenove anos, sua mãe abdicou da profissão, aposentando-se antecipadamente, vendeu tudo que tinha e mudou-se para Florença, na Itália, com o objetivo de possibilitar os estudos do filho na prestigiosa “Accademia di Belle Arti di Firenze”, onde, apesar das dificuldades para aprender o novo idioma e de precisar trabalhar para manter-se, Salsano concluiu o curso com louvor. Nesse mesmo período foi aluno do grande mestre florentino Andrea Ortuño. Recentemente, Felipe cursou pós-graduação na Academia de Arte Russa de Florença, em retratos e anatomia. \
+Ao longo dos anos, morando na capital do Renascimento, Salsano tem participado de inúmeras exposições coletivas e individuais, ministrando aulas e workshops na Itália, EUA e no Brasil. \
+ \
+
+TextToSpeechBehaviour_B3CF9858_F2E7_E5B3_41A8_0830A6426291.text = Contato do artista
+TextToSpeechBehaviour_FB692D6B_F081_30CE_41D5_13A10291A8B1.text = Conteúdo em áudio dêscrição \
+ \
+Exposição Reconexo \
+Felipe Salsano \
+Curadoria \
+Gilberto Lacerda \
+Visitas até 28 de outubro de 2022 \
+2ª a 6ª feira das 9h às 19h \
+Espaço Cultural STJ \
+ \
+
+TextToSpeechBehaviour_B6A4A46B_F2FA_ED94_41DF_5B16F882F0F4.text = Crédito da música
+TextToSpeechBehaviour_B677A878_F2E5_A674_41BB_5D457B1AF588.text = Endereço da exposição
+TextToSpeechBehaviour_A9A79909_F3A3_59B7_41E0_1E7CA2A32DB8.text = Fechar
+TextToSpeechBehaviour_BF13627F_F226_AEB5_41EB_C8C5630AA1E2.text = Ouvir novamente
+TextToSpeechBehaviour_D9511C8E_F265_5EAC_41E6_539F9FA8ABE9.text = Ouvir o artista
+TextToSpeechBehaviour_BEC4B465_F225_AACA_41E4_3E7F25CA6863.text = Próximo
+TextToSpeechBehaviour_D9DE791B_F3E5_79CA_41E8_D12EB7A3AC46.text = Próximo
+TextToSpeechBehaviour_B1A831A8_F2E5_E694_41EC_D9ABC0465922.text = Quadros
+TextToSpeechBehaviour_A5684F42_F267_76CF_41E6_AD8B2749A76F.text = Reconexo \
+Trabalhos recentes de Felipe Salsano \
+ \
+O estabelecimento de conexões é o eixo central desta mostra de trabalhos deste artista brasiliense radicado há 17 anos na Itália. Nos trabalhos expostos, Felipe Salsano exprime sua necessidade de estar conectado ao passado, a alinhar-se a pintôres clássicos que o inspiram, e ao presente, ao avançar na construção de uma linguagem própria e atual.  \
+ \
+Em Reconexo, Felipe Salsano busca também uma conexão com o público. Por meio dos Que Erre Coldes disponibilizados em diversos trabalhos, podemos nos conectar com seu processo de produção e com este jovem artista que, de mãos dadas com seus pintôres de predileção, também nos estende as mãos e se conecta conosco. \
+ \
+Aliás, seu próprio nome, advindo do grego filipos, formado pela junção das palavras filos (amigo) e ípos (cavalo), está relacionado a uma necessidade de se manter conectado ao mundo. Afinal de contas eles, os cavalos, são, mitologicamente, manifestações perfeitas da própria natureza e a ela nos conéctam, sem atalhos, em busca do sal da terra que é justamente o que dá sabor ao mundo e também o sentido do sobrenome do Felipe. \
+ \
+Gilberto Lacerda Santos \
+Curador da mostra \
+ \
+
+TextToSpeechBehaviour_B1324B73_F2E6_DA74_41E3_4A8503D4A77A.text = Sobre Felipe Salsano
+TextToSpeechBehaviour_B0E27959_F2EB_E7B4_41E9_0318918FEEFE.text = Texto de abertura
+TextToSpeechBehaviour_BC4BD382_F227_AE4F_41D1_4F64DDC7485D.text = Voltar ao menu
+
 ## Media
 
 ### Audio
+audiores_414D5A8B_F23D_5E5D_41BB_165A8E23FCF7.mp3Url = media/audio_5FF2DB1D_F23D_FE75_4195_5657068A292D_pt.mp3
+audiores_BFE7BB31_F39D_D9D6_41C8_A5681A20F4DF.mp3Url = media/audio_B9F3F888_F39D_78B5_41E6_9605D4DA2905_pt.mp3
+audiores_CE22E62E_F3E2_ABCD_41E3_3E1857905875.mp3Url = media/audio_C97F77ED_F3ED_684F_41D6_7F4D79F24DAB_pt.mp3
+audiores_CDF3A45F_F3E2_A84A_41E0_19BCD6FF1990.mp3Url = media/audio_CAA98FCC_F3E3_F84D_41BE_BB4CB678B975_pt.mp3
+audiores_B78932F5_F3E6_E85F_41E9_813E7EB90230.mp3Url = media/audio_CE2D6F5E_F3E7_B84A_41E6_7DEA25FB250E_pt.mp3
+audiores_CDCE0F09_F3E2_B9B7_41E6_FC9EC4F83D12.mp3Url = media/audio_CFABC5BE_F3E2_A8CD_41E3_C825B418F235_pt.mp3
+audiores_D4320E85_F15C_0178_41EB_F882AFF9DFCB.mp3Url = media/audio_D5A313ED_F15C_0688_41B1_C001AAA9CE2E_pt.mp3
+audiores_D77EBE51_F3ED_5856_41E1_3FE5FEA0D1E6.mp3Url = media/audio_D65185D3_F3EE_A85B_41EE_225B372C5662_pt.mp3
+audiores_D70C74E5_F3ED_687E_41E4_E9BB0DF847B5.mp3Url = media/audio_D7DE3CC6_F3ED_D8BA_41A9_1055E556395C_pt.mp3
 audiores_E2EAE1D6_EE43_D4AA_41BC_A180BF7A99BC.mp3Url = media/audio_E25E7EEE_EE43_AC7A_41DA_E2241BA065FB_pt.mp3
 
 ### Title
-photo_E30AF85B_EE41_D45A_41CB_E5FC97104F69.label = Imagem_fundo_tour_virtual_deficiente_visual2
-photo_E30AF85B_EE41_D45A_41CB_E5FC97104F69.label = Imagem_fundo_tour_virtual_deficiente_visual2
+album_8DCD02E1_F462_A877_41E4_EE84C67E42AD.label = Endereço da exposição
+album_8DCD02E1_F462_A877_41E4_EE84C67E42AD_0.label = Fundo endereço da exposição
+album_E56AFA03_F0C4_0178_41DA_0A84F0D6E0D5_0.label = Fundo menu
+album_500B6452_F3EB_AACE_41D0_185621DF7940_0.label = Fundo sobre Felipe Salsano
+album_A9ED6C77_F21F_5AB5_41ED_4AD17637AFFB_0.label = Fundo texto de abertura
+album_C5B92E1E_F1C4_0188_41EA_E4D54D6E43B2_0.label = Fundo áudio
+photo_FBC9A66F_F043_72F3_41DA_BDCFFB30D61C.label = Imagem_fundo_tour_virtual_deficiente_visual2
+photo_FBC9A66F_F043_72F3_41DA_BDCFFB30D61C.label = Imagem_fundo_tour_virtual_deficiente_visual2
+album_E56AFA03_F0C4_0178_41DA_0A84F0D6E0D5.label = Menu
 album_E3BD7A3A_EDAF_7438_41C5_7F12ACB1C101.label = Photo Album Imagem_fundo_tour_virtual_deficiente_visual5
+album_55DC5711_F21E_F64D_41DE_702A25B9FD9F.label = Quadros
+album_500B6452_F3EB_AACE_41D0_185621DF7940.label = Sobre Felipe Salsano
+album_A9ED6C77_F21F_5AB5_41ED_4AD17637AFFB.label = Texto de abertura
+photo_5D3A84B0_F227_6A4B_41B7_681AEC414532.label = amor_de_mae
+photo_5D3A84B0_F227_6A4B_41B7_681AEC414532.label = amor_de_mae
+photo_5A4282E1_F225_AFCD_41E3_837AEBF7B284.label = artista_sapatos
+photo_5A4282E1_F225_AFCD_41E3_837AEBF7B284.label = artista_sapatos
+photo_CD2F6519_F3ED_69D7_41C1_C2296A199903.label = battesimo_delle_moltitudini
+photo_CD2F6519_F3ED_69D7_41C1_C2296A199903.label = battesimo_delle_moltitudini
+photo_584CDBC1_F226_BDCD_41BC_62611D795156.label = brincadeiras_ao_entardecer
+photo_584CDBC1_F226_BDCD_41BC_62611D795156.label = brincadeiras_ao_entardecer
+photo_CA3B7C08_F3ED_DFB5_41E4_71AD4CC8FEEF.label = cairo
+photo_CA3B7C08_F3ED_DFB5_41E4_71AD4CC8FEEF.label = cairo
+photo_C9DF3B7C_F3ED_D84D_41CE_45B81D04AC09.label = cigana
+photo_C9DF3B7C_F3ED_D84D_41CE_45B81D04AC09.label = cigana
+photo_CEE5FF7B_F3EF_F84B_41EC_A014D65C61FB.label = d_cacique
+photo_CEE5FF7B_F3EF_F84B_41EC_A014D65C61FB.label = d_cacique
+photo_593C1304_F227_EE54_41D3_49F8642524A9.label = d_la_passion
+photo_593C1304_F227_EE54_41D3_49F8642524A9.label = d_la_passion
+album_C5B92E1E_F1C4_0188_41EA_E4D54D6E43B2.label = Áudio de boas-vindas
+
+## Skin
+
+### Button
+Button_FD1A81C7_F0A5_2E13_41E6_570864D7FD20.label = ANTERIOR
+Button_DC9D64BF_F23A_AEEC_41E1_B1311FFB1E92.label = CONTATO DO ARTISTA
+Button_C3513C0B_F23D_5D94_41C4_173A840CDA47.label = CRÉDITO DA MÚSICA
+Button_DC025D5F_F23D_5FAC_41E3_A453B5215956.label = ENDEREÇO DA EXPOSIÇÃO
+Button_DA07250B_F21F_6F94_41DB_A5DD6BE7E7DE.label = OUVIR NOVAMENTE
+Button_DBEA7C5E_F27A_FDAC_41E8_DE49C84663D0.label = OUVIR O ARTISTA
+Button_FF4A40EB_F0A5_2E13_41EB_22E51AF2936C.label = PRÓXIMO
+Button_DDBF3A58_F23A_A5B4_41D8_FD306688D13E.label = QUADROS
+Button_DCB1DC27_F23A_BD9C_41EC_AB761BD2F827.label = SOBRE FELIPE SALSANO
+Button_C25951F0_F23B_6674_41CD_2AA79DE8E5A4.label = TEXTO DE ABERTURA
+Button_EE19251D_F0CC_0388_41C5_93A24CE50CBF.label = VOLTAR AO MENU
 
 ## Tour
 
