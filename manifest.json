@@ -1,4 +1,7 @@
 {
+ "name": "Tour virtual para deficientes visuais",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "150x150",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Tour virtual para deficientes visuais",
- "display": "fullscreen",
  "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF"
 }
