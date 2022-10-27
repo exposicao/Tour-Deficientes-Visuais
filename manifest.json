@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
  "name": "Tour virtual para deficientes visuais",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true"
+ "background_color": "#FFFFFF"
 }
